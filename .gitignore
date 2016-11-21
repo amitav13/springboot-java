@@ -1,6 +1,7 @@
-*.iml
 .idea/
 .mvn/
+.gradle/
+build/
 mvnw
 mvnw.cmd
 pom.xml
